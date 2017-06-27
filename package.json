@@ -1,0 +1,21 @@
+{
+  "name": "myvoter",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp Voter Challenge",
+  "main": "index.js",
+  "dependencies": {
+    "node": "^0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alex-evans/myVoter"
+  },
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex Evans",
+  "license": "ISC"
+}
